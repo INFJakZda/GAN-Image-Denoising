@@ -10,6 +10,12 @@ numpy = "*"
 cv2 = "*"
 image = "*"
 opencv-python = "*"
+tensorflow = "*"
+imageio = "*"
+jupyter = "*"
+matplotlib = "*"
+graphviz = "*"
+pydot = "*"
 
 [requires]
 python_version = "3.7"
